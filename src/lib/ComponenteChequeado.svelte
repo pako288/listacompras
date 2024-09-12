@@ -1,0 +1,1 @@
+<h1>Soy un componente que aparece cuando el checker esta activo</h1>
